@@ -7,6 +7,7 @@ Our project is a distributed bluetooth client mapping system. The system will ha
 
 This mapping concept can be useful in places that do not have wireless reception.
 
+Bluetooth Mapping Application diagram: [btMappingDiagram.pdf]   	 
 
 = Details =
 
