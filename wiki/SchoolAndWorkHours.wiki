@@ -1,22 +1,39 @@
 #summary School and work hours to collaborate time to work on the project.
 
 ===Ryan Cheng===
-work:
-||m|| 9am - 2pm ||
-||w|| 9am - 2pm ||
-||f|| 9am - 4pm ||
 
-school:
-||m|| 2pm - 3pm ||
-||t|| 5pm - 8:15pm ||
-||w|| 2pm - 3pm ||
-||tr||5pm - 8:15pm ||
+||day|| Work || School ||
+||m|| 9am - 2pm || 2pm - 3pm ||
+||t||           || 5pm - 8:15pm ||
+||w|| 9am - 2pm || 2pm - 3pm ||
+||tr|| 9am - 2pm || 5pm - 8:15pm ||
+||f|| 9am - 4pm || ||
+||sa||  || ||
+||su|| Church 10:30am - 11:30am  || ||
 
-weekends are all free
 
 
 ===David Siu===
 
+||day|| Work || School || Wife ||
+||m  ||      ||        ||      ||
+||t  ||      ||        ||      ||
+||w  ||      ||        ||      ||
+||tr ||      ||        ||      ||
+||f  ||      ||        ||      ||
+||sa ||      ||        ||      ||
+||su ||      ||        ||      ||
+
 
 
 ===Travis Meier===
+
+
+||day|| Work || School ||
+||m  ||      ||        ||
+||t  ||      ||        ||
+||w  ||      ||        ||
+||tr ||      ||        ||
+||f  ||      ||        ||
+||sa ||      ||        ||
+||su ||      ||        ||
