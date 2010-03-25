@@ -1,0 +1,20 @@
+#summary School and work hours to collaborate time to work on the project.
+
+===Ryan Cheng===
+work:
+m: 9am - 2pm
+w: 9am - 2pm
+f: 9am - 4pm
+
+school:
+m: 2pm - 3pm
+t: 5pm - 8:15pm
+w: 2pm - 3pm
+tr:5pm - 8:15pm
+
+
+===David Siu===
+
+
+
+===Travis Meier===
