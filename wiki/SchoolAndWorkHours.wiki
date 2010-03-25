@@ -2,15 +2,17 @@
 
 ===Ryan Cheng===
 work:
-m: 9am - 2pm
-w: 9am - 2pm
-f: 9am - 4pm
+||m|| 9am - 2pm ||
+||w|| 9am - 2pm ||
+||f|| 9am - 4pm ||
 
 school:
-m: 2pm - 3pm
-t: 5pm - 8:15pm
-w: 2pm - 3pm
-tr:5pm - 8:15pm
+||m|| 2pm - 3pm ||
+||t|| 5pm - 8:15pm ||
+||w|| 2pm - 3pm ||
+||tr||5pm - 8:15pm ||
+
+weekends are all free
 
 
 ===David Siu===
